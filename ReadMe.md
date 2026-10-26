@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+![QR Code](./asserts/qrcode.png "Title shown on hover")
+
 ## Expérience professionnelles
 
 - 2009-Now : Formateurs et Developpeur .Net pour Cognitic et BStorm
