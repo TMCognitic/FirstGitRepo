@@ -18,3 +18,6 @@
 - Jeux Vidéos : World Of Warcraft, Satisfactory, Valheim
 - Cinéma
 - Marche à pied
+
+## Copyright
+Morre Thierry
