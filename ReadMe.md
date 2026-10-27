@@ -12,3 +12,9 @@
 ## Formations
 
 - 2009 : Formation Developpeur .Net à Technofutur Tic Gosselies
+
+## Loisirs
+
+- Jeux Vidéos : World Of Warcraft, Satisfactory, Valheim
+- Cinéma
+- Marche à pied
